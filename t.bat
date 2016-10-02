@@ -1,0 +1,1 @@
+cd wp-content/themes/wp000_dev
