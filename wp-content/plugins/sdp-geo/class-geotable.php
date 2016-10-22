@@ -1,10 +1,9 @@
 <?php
-
-
 /**
  * Class MLikes_LikesTable
  *
  */
+
 class Mloc_GeoTable extends Mlib_DBTable {
 
 

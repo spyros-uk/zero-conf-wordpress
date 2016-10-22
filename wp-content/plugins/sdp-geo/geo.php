@@ -15,8 +15,7 @@
 defined( 'ABSPATH' ) or die();
 
 
-// Register the class autoloader for
-// the likes
+// Register the class autoloader for the likes
 spl_autoload_register( function ( $class ) {
 	$prefix = 'Mloc_';
 	if ( substr( $class, 0, strlen( $prefix ) ) == $prefix ) {
