@@ -32,9 +32,6 @@
 
 				<div class="hero__credits">
 					<p>
-						Background image of Everest courtesy of <a target="_blank" href="https://unsplash.it/">Unsplash It.</a>
-					</p>
-					<p>
 						SVG medal created by Creative Stall, from the <a target="_blank" href="https://thenounproject.com/creativestall/">Noun Project.</a>
 					</p>
 				</div>
